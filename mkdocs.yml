@@ -1,2 +1,4 @@
 site_name: Ahmed Mansour Blog
-
+theme:
+  name: material
+  
