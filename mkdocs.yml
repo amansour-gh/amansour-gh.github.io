@@ -1,4 +1,6 @@
 site_name: Ahmed Mansour Blog
+theme:
+  name: material
 nav:
  - 'index.md'
  - 'about.md'
