@@ -2,8 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## This is my Site
-### test
-### two
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
