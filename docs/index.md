@@ -1,7 +1,9 @@
-# Welcome to MkDocs
+# Ahmed Mansour Blog
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-## This is my Site
+## Home
+## Tutorials
+### Test
 
 ## Commands
 
